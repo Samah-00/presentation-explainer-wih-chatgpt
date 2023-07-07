@@ -1,0 +1,8 @@
+final-exercise-Samah-00/
+├──explainer/
+    ├── explainer.py
+    ├── variables.env
+    ├── presentation/
+    │   ├── __init__.py
+    │   ├── myPresentation.py
+    │   └── mySlide.py
